@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Davide Suzzarellu
+[LinkedIn](https://www.linkedin.com/in/davide-suzzarellu-95912226b/)
 <!--
 **DavideSuzzarellu/DavideSuzzarellu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
