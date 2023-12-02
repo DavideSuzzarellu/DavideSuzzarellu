@@ -1,4 +1,9 @@
 # Davide Suzzarellu
+Hola, soy Davide. Estudiante en el bootcamp de full stack developer de 4Geeks Academy. 👋
+Aqui tendré mis proyectos y toda la info necesaria sobre mi.
+
+
+## Contacto
 [LinkedIn](https://www.linkedin.com/in/davide-suzzarellu-95912226b/)
 <!--
 **DavideSuzzarellu/DavideSuzzarellu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
