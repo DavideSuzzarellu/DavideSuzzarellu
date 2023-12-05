@@ -8,7 +8,7 @@ Hola, soy Davide un chico italiano residente en España. Actualmente estudiante 
 ## Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/davide-suzzarellu-95912226b/) 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-social&logo=slack&logoColor=white)](https://app.slack.com/client/T0BFXMWMV/C0BG1MAV7)
-[![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-social&logo=microsoft-outlook&logoColor=white)]([URL_DE_TU_PERFIL_DE_OUTLOOK](https://outlook.live.com/mail/0/?actSwt=true))
+[![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-social&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/?actSwt=true)
 ## Educación 
 - #### Estudiante de la Academia 4Geeks (Desarrollador Full Stack).
 - #### ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-logo=Udemy&logoColor=white) Curso Python: de zero a programador todoterreno.
