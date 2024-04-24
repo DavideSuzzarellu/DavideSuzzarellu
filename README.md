@@ -4,7 +4,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 # Davide Suzzarellu <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Bandera de Italia" width="20" height="15"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Bandera de España" width="20" height="15">
-Hola, soy Davide un chico italiano residente en España. Actualmente estudiante en un Bootcamp de 4GeeksAcademy (Desarrollador Full Stack); Este nueva aventura rapresenta para mi un desasfio, para entraprender una nueva carrera en este sector, que siempre me ha afascianado, y que espero se convierta en mi futuro empleo. 😁😁 
+¡Hola a todos!
+
+Mi nombre es Davide, un apasionado chico italiano que ha encontrado su hogar en España. Actualmente, estoy inmerso en una emocionante travesía como estudiante en el prestigioso Bootcamp de 4GeeksAcademy, donde estoy aprendiendo las habilidades necesarias para convertirme en un Desarrollador Full Stack.
+
+Para mí, este nuevo capítulo representa un desafío emocionante y la oportunidad de explorar una carrera en un sector que siempre me ha fascinado. Estoy ansioso por sumergirme en el mundo del desarrollo de software y hacer de él mi futuro profesional.
+
+¡Espero poder compartir esta increíble aventura con todos ustedes mientras avanzo en mi viaje hacia el éxito! 😁✨
 ## Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/davide-suzzarellu-95912226b/) 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-social&logo=slack&logoColor=white)](https://app.slack.com/client/T0BFXMWMV/C0BG1MAV7)
