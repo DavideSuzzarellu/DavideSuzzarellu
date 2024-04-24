@@ -6,7 +6,7 @@
 # Davide Suzzarellu <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Bandera de Italia" width="20" height="15"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Bandera de España" width="20" height="15">
 ¡Hola a todos!
 
-Mi nombre es Davide, un apasionado chico italiano que ha encontrado su hogar en España. Actualmente, estoy inmerso en una emocionante travesía como estudiante en el prestigioso Bootcamp de 4GeeksAcademy, donde estoy aprendiendo las habilidades necesarias para convertirme en un Desarrollador Full Stack.
+Mi nombre es Davide, un apasionado chico italiano que ha encontrado su hogar en España. Actualmente, estoy inmerso en una emocionante travesía como estudiante en la academia de 4GeeksAcademy, donde estoy aprendiendo las habilidades necesarias para convertirme en un Desarrollador Full Stack.
 
 Para mí, este nuevo capítulo representa un desafío emocionante y la oportunidad de explorar una carrera en un sector que siempre me ha fascinado. Estoy ansioso por sumergirme en el mundo del desarrollo de software y hacer de él mi futuro profesional.
 
